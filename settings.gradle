@@ -1,0 +1,3 @@
+rootProject.name = "SimpleListView"
+include ':app'
+include ':SimpleListView'
